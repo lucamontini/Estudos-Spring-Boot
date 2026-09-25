@@ -1,0 +1,26 @@
+{
+  "mvnw": {
+    "mtime": 1790282969.236707,
+    "seen": 1790283449.0988464,
+    "ast_hash": "ab50dd89da7da2346b28003352eeeeeb",
+    "semantic_hash": "ab50dd89da7da2346b28003352eeeeeb"
+  },
+  "pom.xml": {
+    "mtime": 1790282969.236707,
+    "seen": 1790283449.0988495,
+    "ast_hash": "624d66a004ed88b5be1bdd728a877410",
+    "semantic_hash": "624d66a004ed88b5be1bdd728a877410"
+  },
+  "src/main/java/com/example/meu_primeiro_springboot/MeuPrimeiroSpringbootApplication.java": {
+    "mtime": 1790282969.236707,
+    "seen": 1790283449.0988507,
+    "ast_hash": "b8eb88797777831f1a86b1f20eca5547",
+    "semantic_hash": "b8eb88797777831f1a86b1f20eca5547"
+  },
+  "src/test/java/com/example/meu_primeiro_springboot/MeuPrimeiroSpringbootApplicationTests.java": {
+    "mtime": 1790282969.236707,
+    "seen": 1790283449.0988514,
+    "ast_hash": "45dcab78d269c2e7818581a38940aaf5",
+    "semantic_hash": "45dcab78d269c2e7818581a38940aaf5"
+  }
+}
